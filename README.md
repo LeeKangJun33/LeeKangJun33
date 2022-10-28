@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 신입 백엔드 개발자를 희망하는 이강준이라고 합니다! 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangJun33&show_icons=true&theme=radical)
 
 <!--
