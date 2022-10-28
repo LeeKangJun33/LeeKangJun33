@@ -1,8 +1,8 @@
 ### 안녕하세요! 신입 백엔드 개발자를 희망하는 이강준이라고 합니다! 👋
 
-####Skill
+#### ✨Skill
 
-<img src="https://img.shields.io/badge/Android-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKangJun33&show_icons=true&theme=radical)
 
